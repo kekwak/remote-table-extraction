@@ -2,3 +2,5 @@
 */htmls
 */screenshots
 *DS_Store
+gen_images_from_excel/parsed-data.csv
+ocr_images/output.csv
